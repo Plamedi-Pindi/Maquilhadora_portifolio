@@ -11,7 +11,7 @@
   background-color: #000000;
   color: white;
 
-  background-image: url("dirty-old-black-shirt.png");
+  background-image: url("/dirty-old-black-shirt.png");
 
   overflow-y: scroll;
   /* overflow-x: hidden; */
